@@ -7,9 +7,7 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav ml-lg-5">
-        <li class="nav-item"><a class="nav-link" href="index.php#how-it-works">How it works?</a></li>
-        <li class="nav-item"><a class="nav-link" href="prices.php">Prices</a></li>
+     ass="nav-item"><a class="nav-link" href="prices.php">Prices</a></li>
         <li class="nav-item"><a class="nav-link" href="index.php#our-offers">Promotion & Offer</a></li>
         <li class="nav-item"><a class="nav-link" href="contact-us.php">Contact Us</a></li>
       </ul>

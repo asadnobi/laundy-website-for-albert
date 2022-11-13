@@ -7,18 +7,7 @@
   <div class="container">
     <div class="section-price">
       <div class="nav flex-column prices-nav" role="tablist">
-        <a href="#gentlemen" class="nav-link active nav-item" data-toggle="pill" role="tab">
-          <img src="https://lh-new.s3.amazonaws.com/production/uploads/price_service/image/3/big_laundry_service.png">
-          <div>
-            <h3 class="heading heading-gamma">Gentlemen</h3>
-            <small>Everyday laundry. Washed at 30°C and tumble dried.</small>
-          </div>
-        </a>
-        <a href="#ladies" class="nav-link nav-item" data-toggle="pill" role="tab">
-          <img src="https://lh-new.s3.amazonaws.com/production/uploads/price_service/image/6/big_dry_cleaning.png">
-          <div>
-            <h3 class="heading heading-gamma">Ladies</h3>
-            <small>Cleaned and ironed. Priced per item.</small>
+        ned. Priced per item.</small>
           </div>
         </a>
         <a href="#household" class="nav-link nav-item" data-toggle="pill" role="tab">
@@ -53,17 +42,7 @@
             <li class="list-item"><span class="title">Trousers</span><span class="price">£8.00</span></li>
             <li class="list-item"><span class="title">Linen Trs</span><span class="price">£9.50</span></li>
             <li class="list-item"><span class="title">Jackets</span><span class="price">£9.00</span></li>
-            <li class="list-item"><span class="title">Linen Jkts</span><span class="price">£10.50</span></li>
-            <li class="list-item"><span class="title">Diner Suits</span><span class="price">£17.50</span></li>
-            <li class="list-item"><span class="title">0/Coats from</span><span class="price">£16.50</span></li>
-            <li class="list-item"><span class="title">Raincoats from</span><span class="price">£16.50</span></li>
-            <li class="list-item"><span class="title">Waistcoats</span><span class="price">£5.00</span></li>
-            <li class="list-item"><span class="title">Shirts</span><span class="price">£3.75</span></li>
-            <li class="list-item"><span class="title">Dinner shirts</span><span class="price">£04.75</span></li>
-            <li class="list-item"><span class="title">Shirts, P.Only</span><span class="price">£2.50</span></li>
-            <li class="list-item"><span class="title">Ties</span><span class="price">£5.50</span></li>
-            <li class="list-item"><span class="title">Raincoats from</span><span class="price">£16.50</span></li>
-            <li class="list-item"><span class="title">Raincoats from</span><span class="price">£16.50</span></li>
+          "price">£16.50</span></li>
             <li class="list-item"><span class="title">Raincoats from</span><span class="price">£16.50</span></li>
             <li class="list-item"><span class="title">Raincoats from</span><span class="price">£16.50</span></li>
           </ul>
@@ -92,16 +71,7 @@
             <li class="list-item"><span class="title">King Duvet from</span><span class="price">£27.00</span></li>
             <li class="list-item"><span class="title">Super King from</span><span class="price">£30.00</span></li>
             <li class="list-item"><span class="title">Toppers from</span><span class="price">£20.00</span></li>
-            <li class="list-item"><span class="title">Sleeping bags from</span><span class="price">£16.00</span></li>
-            <li class="list-item"><span class="title">Pillows from</span><span class="price">£8.50</span></li>
-            <li class="list-item"><span class="title">Single Blankets</span><span class="price">£9.00</span></li>
-            <li class="list-item"><span class="title">Double Blankets</span><span class="price">£12.00</span></li>
-            <li class="list-item"><span class="title">Bed Covers from</span><span class="price">£23.00</span></li>
-          </ul>
-        </div>
-        <div class="tab-pane fade" id="general" role="tabpanel">
-          <h5>Ironing only</h5>
-          <h5><small>Items that are already washed. Priced per item.</small></h5>
+           ced per item.</small></h5>
           <ul class="price-list">
             <li class="list-item"><span class="title">Jumpers from</span><span class="price">£6.50</span></li>
             <li class="list-item"><span class="title">Scholl Blazers</span><span class="price">£7.50</span></li>

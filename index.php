@@ -75,17 +75,7 @@
       <h2 class="title">How it works?</h2>
       <p class="sub-title">We collect, wash and deliver your laundry and dry cleaning in 24 hours.</p>
     </div>
-    <div class="items">
-      <div class="item">
-        <img src="assets/svg/icon-collection.svg" class="img-fluid" alt="Icon collection">
-        <h2>PICK-UP</h2>
-        <p>Easily choose collection & delivery times at your convenience, including late evenings and weekends.</p>
-      </div>
-      <div class="item">
-        <img src="assets/svg/icon-work.svg" class="img-fluid" alt="Icon work">
-        <h2>A DRIVER ARRIVES </h2>
-        <p>Our drivers bring your items to our cleaning partners, where we take utmost care to ensure great results.</p>
-      </div>
+   
       <div class="item">
         <img src="assets/svg/icon-delivery.svg" class="img-fluid" alt="Icon delivery">
         <h2>CLEAN LAUNDRY</h2>
@@ -169,13 +159,7 @@
   <div class="container-fluid section-promise">
     <div class="row">
       <div class="container">
-        <div class="heading">
-          <h2 class="title">Our promise</h2>
-          <p class="sub-title">We are working hard to earn your trust.</p>
-        </div>
-        <div class="layouts">
-          <div class="items">
-            <div class="item">
+    
               <img src="assets/svg/icon-bestprice.svg" alt="Icon bestprice">
               <div>
                 <h2>100% Happiness Guarantee</h2>
@@ -215,7 +199,7 @@
   <div class="container section-gstarted">
     <div class="heading">
       <h2 class="title">Ready to start?</h2>
-      <p class="sub-title">Enter your address and schedule a collection.</p>
+      address and schedule a collection.</p>
     </div>
     <div class="btnGrp">
       <a class="btn btn-theme" href="javascript:void(0)">Schedule a collection<i class="fas fa-2x fa-arrow-right ml-2"></i></a>
